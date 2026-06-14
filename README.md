@@ -125,5 +125,4 @@ graph LR
     style B fill:#3b4252,stroke:#81a1c1,stroke-width:2px;
     style C fill:#434c5e,stroke:#5e81ac,stroke-width:2px;
     style D fill:#4c566a,stroke:#b48ead,stroke-width:2px;
-    style E fill:#4c566a,stroke:#a3be8c,stroke-width:2px;
-
+    style e fill:#4c566a,stroke:#a3be8c,stroke-width:2px;
