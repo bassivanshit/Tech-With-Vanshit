@@ -1,3 +1,5 @@
+<img width="1076" height="343" alt="image" src="https://github.com/user-attachments/assets/106e6b24-0c83-4eb0-acee-3542f7a3ebcb" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=250&section=header&text=Vanshit%20Bassi&subtitle=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst&fontSize=40&animation=fadeIn&fontAlignY=45" width="100%" />
 </p>
@@ -109,6 +111,8 @@ An innovative and results-driven **Data Professional** specializing in extractin
 > * **Impact:** Enhanced data availability and optimized query latency across multi-market corporate tracking streams.
 
 ---
+
+<img width="940" height="357" alt="Screenshot 2026-06-14 131248" src="https://github.com/user-attachments/assets/2ac65714-3be5-49cc-b1d0-e2810a6ce508" />
 
 ### 🚀 Data & ML Workflow Methodology
 
