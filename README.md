@@ -110,24 +110,6 @@ An innovative and results-driven **Data Professional** specializing in extractin
 
 ---
 
-### 📈 GitHub Analytics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassivanshit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bassivanshit&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassivanshit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" />
-</p>
-
-## 🟩 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshit31&theme=tokyonight&area=true&hide_border=true" alt="Vanshit's Contribution Graph" width="100%" />
-</p>
----
-
 ### 🚀 Data & ML Workflow Methodology
 
 ```mermaid
@@ -144,5 +126,4 @@ graph LR
     style C fill:#434c5e,stroke:#5e81ac,stroke-width:2px;
     style D fill:#4c566a,stroke:#b48ead,stroke-width:2px;
     style E fill:#4c566a,stroke:#a3be8c,stroke-width:2px;
-
 
