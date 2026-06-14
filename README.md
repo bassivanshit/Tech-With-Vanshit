@@ -1,4 +1,4 @@
-![Uploading Gemini_Generated_Image_ks7302ks7302ks73.png…]()
+<img width="1388" height="362" alt="image" src="https://github.com/user-attachments/assets/19d01fd6-31e1-413c-a5ef-0b62c2e31e58" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=250&section=header&text=Vanshit%20Bassi&subtitle=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst&fontSize=40&animation=fadeIn&fontAlignY=45" width="100%" />
