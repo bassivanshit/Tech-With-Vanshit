@@ -1,4 +1,4 @@
-<img width="1212" height="867" alt="image" src="https://github.com/user-attachments/assets/bb6a8f1e-058c-4a80-953b-0e4d7df462ab" />## 📊 GitHub Analytics & Stats
+## 📊 GitHub Analytics & Stats
 
 <p align="center">
   <table align="center" border="0" cellspacing="0" cellpadding="0">
@@ -96,5 +96,5 @@
 ## 🟩 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshit31&theme=github-green&area=true&hide_border=true" alt="Vanshit's Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanshit31&theme=github_dark" alt="Vanshit's Fully Green Contribution Graph" width="100%" />
 </p>
