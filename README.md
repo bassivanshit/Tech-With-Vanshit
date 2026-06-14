@@ -1,119 +1,98 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vanshit%20Bassi&subtitle=Machine%20Learning%20%26%20Data%20Science%20Engineer&theme=dark" alt="Header" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Vanshit31">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;NLP+%26+LLM+Pipelines;MLOps+%26+Responsible+AI;Data+Scientist" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-[cite_start]I am **Vanshit Bassi**, a highly driven **Machine Learning Engineer** and **Data Scientist** based in New Delhi, India[cite: 5, 8]. [cite_start]Currently pursuing my **Master of Computer Applications (MCA) specializing in Artificial Intelligence & Data Science** (Expected 2026) [cite: 10, 11][cite_start], I bridge the gap between complex algorithmic research and scalable, production-grade enterprise deployments[cite: 5].
-
-As an analytical and pattern-oriented problem solver, my expertise spans across **Natural Language Processing (NLP)**, building **Responsible & Fair AI Systems**, and implementing automated **MLOps pipelines**. [cite_start]I specialize in taking raw, messy unstructured data and engineering it into optimized, containerized microservices that drive measurable business impact[cite: 5, 7, 19].
-
-* 🔭 **Current Focus**: Scaling domain-specific Language Models and building deterministic framework architectures for AI Fairness auditing.
-* [cite_start]⚡ **Core Philosophy**: Performance and fairness are not mutually exclusive—scalable AI must be architected responsibly.
-* [cite_start]🎯 **Targeting**: Machine Learning Engineer / Data Scientist / ML Intern roles at forward-thinking organizations like Accenture, Google, and Amazon[cite: 8].
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bassivanshit2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Tech_with_Vanshit/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/Tech-with-Vanshit" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:vanshitbassi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Complete Tech Stack
 
 ### 🧠 AI & Machine Learning
-* [cite_start]**Core Frameworks**: PyTorch · TensorFlow / Keras · Scikit-learn · Hugging Face Transformers · NLTK · spaCy [cite: 15]
-* [cite_start]**Specialized Domains**: Large Language Models (LLMs) Fine-Tuning & Evaluation · Deep Learning · Time Series Analysis [cite: 15]
-* [cite_start]**Advanced ML Tactics**: Imbalanced Learning (SMOTE, RUS) · Multi-Class Classification · Seq2Seq Architectures [cite: 15, 20, 23, 41, 45]
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq LLM" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-611252?style=for-the-badge&logo=databricks&logoColor=white" alt="LlamaIndex" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0052CC?style=flat-square" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/Whisper%20STT-5939B5?style=flat-square" alt="Whisper STT" />
+  <img src="https://img.shields.io/badge/ElevenLabs%20TTS-000000?style=flat-square" alt="ElevenLabs TTS" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets" />
+</p>
 
-### ⚖️ Responsible AI & XAI
-* [cite_start]**Fairness Toolkits**: AIF360 (AI Fairness 360) [cite: 15]
-* [cite_start]**Mitigation Algorithms**: Reweighing (Pre-processing) · Disparate Impact Remover [cite: 15, 31]
-* [cite_start]**Explainable AI (XAI)**: LIME (Local Interpretable Model-agnostic Explanations) · SHAP (SHapley Additive exPlanations) [cite: 15, 24, 52]
+### ⚡ AI Tools & Builders
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity%20AI-FF4B4B?style=flat-square" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=flat-square" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/Stitch%20Google%20AI-4285F4?style=flat-square" alt="Stitch Google AI" />
+  <img src="https://img.shields.io/badge/Make.com-6E38FF?style=flat-square" alt="Make.com" />
+  <img src="https://img.shields.io/badge/Automation-4A154B?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square" alt="Zapier" />
+  <img src="https://img.shields.io/badge/Automation-FF6C37?style=flat-square" alt="Automation 2" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/N8N%20Workflows-FF6D5A?style=flat-square" alt="N8N Workflows" />
+  <img src="https://img.shields.io/badge/Runway%20AI-000000?style=flat-square" alt="Runway AI" />
+  <img src="https://img.shields.io/badge/Midjourney-1A1A1A?style=flat-square" alt="Midjourney" />
+  <img src="https://img.shields.io/badge/DALL·E-412991?style=flat-square" alt="DALL-E" />
+</p>
 
 ### 📊 Data & Analytics
-* [cite_start]**Languages**: Python (Advanced) · SQL · Bash Scripting [cite: 15]
-* [cite_start]**Libraries**: Pandas · NumPy · SciPy · Matplotlib · Seaborn [cite: 43, 50]
-* [cite_start]**Statistical Mechanics**: Hypothesis Testing · Descriptive & Inferential Statistics · VIF (Variance Inflation Factor) · Chi-Square Testing · PCA (Principal Component Analysis) [cite: 15, 37]
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E28743?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
 
-### ⚙️ MLOps & Infrastructure
-* [cite_start]**Deployment**: FastAPI · Docker (Containerization) [cite: 15, 26]
-* [cite_start]**Optimization**: Optuna Hyperparameter Optimization (TPE Sampler) [cite: 15, 25]
-* [cite_start]**Development Tools**: Git · GitHub · Jupyter Notebook · Google Colab [cite: 15]
+### 🧠 Product & Analytical Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/A/B%20Testing-00B4D8?style=flat-square" alt="A/B Testing" />
+  <img src="https://img.shields.io/badge/User%20Research-5C6BC0?style=flat-square" alt="User Research" />
+  <img src="https://img.shields.io/badge/Product%20Thinking-EC407A?style=flat-square" alt="Product Thinking" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-00A8CC?style=flat-square" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-2ECC71?style=flat-square" alt="Problem Solving" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Experimentation-F39C12?style=flat-square" alt="Experimentation" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-9B59B6?style=flat-square" alt="Hypothesis Testing" />
+  <img src="https://img.shields.io/badge/Product%20Metrics-1ABC9C?style=flat-square" alt="Product Metrics" />
+</p>
+
+### 💼 Product Management Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
+</p>
 
 ---
 
-## 📈 Data-Driven Technical Workflows
+## 📈 GitHub Analytics & Stats
 
-The following architectural layout illustrates my end-to-end framework methodology when processing business data—spanning from ingestion layers up through structural mitigation and target optimization.
+<p align="center">
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Vanshit31&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="GitHub Stats" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshit31&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshit31&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="75%" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 🔁 The Advanced Data Lifecycle Methodology
-Across my production projects, I enforce a rigid mathematical pipeline to assure model reliability:
-1.  **Multicollinearity Mitigation & Feature Space Compression**: Leveraging Variance Inflation Factor (VIF) limits iteratively to prune dependent feature matrices, combined with Chi-Square feature selection to drop non-informative components[cite: 15, 37].
-2.  **Imbalance Rectification**: Implementing Synthetic Minority Over-sampling Technique (SMOTE) or Random Under-Sampling (RUS) dynamically depending on variance scale to maximize minority target metric captures[cite: 15, 41, 45].
-3.  **Algorithmic Bias Auditing**: Passing data sub-matrices through pre-processing fairness transforms (e.g., Reweighing matrices) to bound Disparate Impact and Statistical Parity tracking within statutory bounds before feeding optimization layers[cite: 15, 30, 31].
+### 🟩 Contribution Graph Profile
 
----
-
-## 📂 Projects
-
-### ⭐ Star Marked Project: Legal NLP System — Clause Classification & Generation
-> **Stack**: Legal-BERT · T5 · Bi-LSTM · GRU · LIME · Optuna · FastAPI · Docker · PyTorch [cite: 18]
-
-#### 🧠 What It Does
-This is a production-grade enterprise Legal Tech solution designed to parse, classify, and generate highly specialized legal contract clause variations[cite: 6, 19]. It automates the risk assessment and drafting phase of regulatory compliance, accelerating document legal validation cycles[cite: 23, 24].
-
-#### ⚙️ System Architecture
-#### 🔄 AI Flow
-1.  **Ingestion & Structuring**: Ingests multi-class raw legal contract text arrays and applies domain-specific token tracking[cite: 19].
-2.  **Domain Adaptation Modeling**: Benchmarks foundational architectures (Bi-LSTM, GRU, CNN-Bi-LSTM) against customized Transformer setups[cite: 20]. Fine-tunes a specialized `Legal-BERT` layer for multi-class assignment[cite: 22].
-3.  **Generative Auto-Drafting**: Routes parameters into a fine-tuned T5 Sequence-to-Sequence model structure to generate contextualized replacement language[cite: 23].
-4.  **Hyperparameter Optimization**: Executes automated tracking over bounded space via Optuna using Tree-structured Parzen Estimators (TPE) over 50 trials to anchor learning distributions[cite: 25].
-5.  **Explainability Layer**: Fits Local Interpretable Model-agnostic Explanations (LIME) to provide feature-level weight maps for enterprise legal auditors[cite: 24].
-
-#### 🧩 Core Features
-* **State-of-the-Art Accuracy**: Achieved a **Classification F1-score of 0.85**, yielding a +12 pp boost compared to baseline models[cite: 6, 22].
-* **Massive Efficiency Increase**: Lowered manual legal assessment time constraints by **70%** via automated generation pipelines[cite: 23].
-* **Low-Latency Scalability**: Engineered under a Docker wrapper running FastAPI endpoints, pushing **sub-200 ms p95 latency turnarounds**[cite: 26].
-
-#### 🛠️ Tech Stack Breakdown
-* **Modeling Core**: PyTorch, Hugging Face Transformers (`nlpaueb/legal-bert-base-uncased`, `t5-base`) [cite: 15, 18, 22, 23]
-* **Explainability & Search**: LIME, Optuna (TPE Sampler) [cite: 18, 24, 25]
-* **Infrastructure Layout**: FastAPI, Docker, Uvicorn, Bash Automation [cite: 15, 18, 26]
-
-#### ⚠️ Current Status
-```markdown
-[x] Fine-Tuning Optimization Runs Completed
-[x] LIME Interpretability Subroutines Hooked
-[x] Docker Container Orchestration Setup Finished
-[>] Implementing Distributed GPU Multi-Node Ingestion Buffers
-
-[Raw Loan Dataset Matrix] ──► [AIF360 Metric Auditor] (Disparate Impact / Statistical Parity Exploded)
-                                      │
-                                      ▼
-                       [Reweighing / DIR Pre-processors]
-                                      │
-                                      ▼
-                       [Fairness-Constrained ML Engine] ──► [Balanced Evaluation Suite]
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshit31&theme=tokyonight&area=true" alt="Contribution Graph" width="100%" />
+</p>
